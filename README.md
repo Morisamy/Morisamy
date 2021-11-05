@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Morisamy
-- 👀 I’m interested in C#, nodeJS, Unity
-- 🌱 I’m currently learning Advanced C#, nodeJS
+- 👀 I’m interested in C#, nodeJS, Unity & Cyber Security
 - 📫 How to reach me:
       https://eg.linkedin.com/in/mohamed-samy92
 
