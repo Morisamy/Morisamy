@@ -37,3 +37,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morisamy)](https://github.com/Morisamy/Morisamy/blob/main/README.md)
 ![Samy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morisamy&show_icons=true&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Morisamy)](https://github.com/Morisamy/github-readme-stats)
