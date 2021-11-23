@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
        
-<a href="samymohammed92@gmail.com">
+<a href="mailto:samymohammed92@gmail.com">
     <img src="![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" />
 </a>
 
