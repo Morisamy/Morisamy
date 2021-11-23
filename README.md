@@ -9,14 +9,14 @@
 📫 How to reach me:
 <div/> 
 
-     <a href="https://www.hackerrank.com/samymohammed92">
-              <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-
+       <div align="center">
+<a href="https://www.hackerrank.com/samymohammed92">
+       <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
        
-       <a href="https://www.linkedin.com/in/mohamed-samy92/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-       </a>
-       
+<a href="https://www.linkedin.com/in/mohamed-samy92/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <a href="https://stackoverflow.com/users/10482516/ahmad-khan?tab=profile">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
