@@ -9,7 +9,10 @@
 📫 How to reach me:
 <div/> 
 
-       <div align="center">
+<a href="mailto:samymohammed92@gmail.com">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+       
 <a href="https://www.hackerrank.com/samymohammed92">
        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
@@ -18,9 +21,6 @@
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/10482516/ahmad-khan?tab=profile">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
 </div>
 <br>      
 
