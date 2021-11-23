@@ -8,7 +8,9 @@
           
 📫 How to reach me:
 <div/> 
-       
+       <a href="default.asp">
+<img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
 
        <a href="mailto:samymohammed92@gmail.com">
               <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
