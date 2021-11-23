@@ -9,15 +9,15 @@
 📫 How to reach me:
 <div/> 
 
-    
+     <a href="https://www.hackerrank.com/samymohammed92">
+              <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+
        
        <a href="https://www.linkedin.com/in/mohamed-samy92/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
        </a>
        
-       <a href="https://www.hackerrank.com/samymohammed92">
-              <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-
+      
 
 ### Languages & Tools
 
