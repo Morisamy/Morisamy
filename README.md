@@ -80,11 +80,7 @@
             <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
             <br>MySQL
         </td>
-        <td align="center">
-            <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" />
-            <br>Microsoft SQL Server
-        </td>
-        <td align="center">
+               <td align="center">
             <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi" />
             <br>Raspberry Pi
         </td>
