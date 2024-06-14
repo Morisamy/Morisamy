@@ -71,11 +71,11 @@
             <br>Gradle
         </td>
     </tr>
+    <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/odoo-17-violet" alt="Odoo" />
             <br>Odoo
         </td>
-    <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
             <br>MySQL
@@ -95,12 +95,6 @@
          <td align="center">
             <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
             <br>Docker
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-            <br>Git
         </td>
     </tr>
 </table>
