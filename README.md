@@ -59,10 +59,6 @@
             <br>Python
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-            <br>HTML5
-        </td>
-        <td align="center">
             <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
             <br>PHP
         </td>
@@ -70,7 +66,15 @@
             <img src="https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
             <br>CodeIgniter
         </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
+            <br>Gradle
+        </td>
     </tr>
+        <td align="center">
+            <img src="https://img.shields.io/badge/odoo-17-violet" alt="Odoo" />
+            <br>Odoo
+        </td>
     <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -85,23 +89,15 @@
             <br>Raspberry Pi
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/odoo-17-violet" alt="Odoo" />
-            <br>Odoo
-        </td>
-        <td align="center">
             <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco" />
             <br>Cisco
         </td>
-    </tr>
-    <tr>
-        <td align="center">
+         <td align="center">
             <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
             <br>Docker
         </td>
-        <td align="center">
-            <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
-            <br>Gradle
-        </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
             <br>Git
