@@ -17,6 +17,7 @@
     <a href="https://www.hackerrank.com/samymohammed92">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
     </a>
+    <a hred="https://unit.link/samy-sensei">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </div>
 
@@ -69,7 +70,7 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="https://img.shields.io/badge/odoo-17-violet" alt="Odoo" />
+            <img src="https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=fff&style=plastic" alt="Odoo" />
             <br>Odoo
         </td>
         <td align="center">
