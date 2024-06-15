@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
     </a>
     <a hred="https://unit.link/samy-sensei">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=000&style=plastic" alt="WhatsApp" />
 </div>
 
 ### Languages & Tools
