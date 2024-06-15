@@ -17,6 +17,8 @@
     <a href="https://www.hackerrank.com/samymohammed92">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
     </a>
+</div>
+    <div align="center">
     <a hred="https://unit.link/samy-sensei">
     <img src="https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=000&style=plastic" alt="WhatsApp" />
 </div>
