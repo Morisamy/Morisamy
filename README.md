@@ -70,7 +70,7 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=fff&style=plastic" alt="Odoo" />
+            <img src="https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=fff&style=flat" alt="Odoo" />
             <br>Odoo
         </td>
         <td align="center">
