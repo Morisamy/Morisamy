@@ -8,8 +8,9 @@
 📫 How to reach me:
 </div>
     <div align="center">
-    <a hred="https://unit.link/samy-sensei">
+    <a href="https://unit.link/samy-sensei">
     <img src="https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=000&style=plastic" alt="WhatsApp" />
+    </a>
 </div>
         <br>
 <div align="center">
