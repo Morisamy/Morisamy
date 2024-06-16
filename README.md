@@ -100,4 +100,7 @@
 
 ![Samy](https://img.shields.io/badge/Samy-First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.-blue)
 
-![image](https://github.com/Morisamy/Morisamy/assets/43931403/016a31a9-8313-4dc8-ba83-45df05cf9f19)
+<div align="center">
+    <img src="https://github.com/Morisamy/Morisamy/assets/43931403/016a31a9-8313-4dc8-ba83-45df05cf9f19" alt="image" width="500" />
+    <img src="https://github.com/Morisamy/Morisamy/assets/43931403/e2a97c12-5219-4fb6-89c6-bccf15b61eed" alt="image" width="500" />
+</div>
