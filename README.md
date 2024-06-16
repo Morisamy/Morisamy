@@ -1,6 +1,6 @@
-![github-header-image (1)](https://github.com/Morisamy/Morisamy/assets/43931403/689bf81d-6371-4bcc-b316-1e9b2eb3695d)
-
 <div align="center">
+    ![github-header-image (1)](https://github.com/Morisamy/Morisamy/assets/43931403/689bf81d-6371-4bcc-b316-1e9b2eb3695d)
+    
     👋 👋 👋
     <p align="center">Hi there, My name is Samy 🔫 ... Mohammed Samy 🔫</p>
 </div>
