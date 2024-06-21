@@ -110,7 +110,9 @@
     <img src="https://github.com/Morisamy/Morisamy/assets/43931403/5eea80e6-c941-4596-b72e-6e6fa5edab13" alt="image" width="300" />
         </div>
 
-# My Certifications
 
-[![Your Badge](https://images.credly.com/size/340x340/images/c5824700-bc31-4051-a33f-90522a023333/image.png)](https://www.credly.com/badges/70d0543c-a7cc-4a77-80f2-e031391d9ba4)
+<a href="https://www.credly.com/badges/70d0543c-a7cc-4a77-80f2-e031391d9ba4">
+    <img src="https://images.credly.com/size/340x340/images/c5824700-bc31-4051-a33f-90522a023333/image.png" width="150" />
+</a>
+
 
