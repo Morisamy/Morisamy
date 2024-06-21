@@ -105,14 +105,19 @@
 
 
 <div align="center">
-    <img src="https://github.com/Morisamy/Morisamy/assets/43931403/016a31a9-8313-4dc8-ba83-45df05cf9f19" alt="image" width="150" />
-    <img src="https://github.com/Morisamy/Morisamy/assets/43931403/e2a97c12-5219-4fb6-89c6-bccf15b61eed" alt="image" width="150" />
-    <img src="https://github.com/Morisamy/Morisamy/assets/43931403/5eea80e6-c941-4596-b72e-6e6fa5edab13" alt="image" width="300" />
+  <img src="https://github.com/Morisamy/Morisamy/assets/43931403/5eea80e6-c941-4596-b72e-6e6fa5edab13" alt="image" width="300" />
         </div>
 
 
 <a href="https://www.credly.com/badges/70d0543c-a7cc-4a77-80f2-e031391d9ba4">
     <img src="https://images.credly.com/size/340x340/images/c5824700-bc31-4051-a33f-90522a023333/image.png" width="150" />
 </a>
+<a href="https://www.credly.com/badges/2e084b0c-4c13-443b-9689-20f296503b2d"">
+    <img src="https://images.credly.com/size/340x340/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png" width="150" />
+</a>
+<a href="https://www.credly.com/badges/f322b0e5-ddba-4d14-8676-9dece08e922b">
+    <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="150" />
+</a>
+
 
 
