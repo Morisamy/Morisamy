@@ -124,9 +124,7 @@
 <a href="https://www.credly.com/badges/b67177b9-52b6-4ebd-9f1e-7dd009aeff8e/public_url">
     <img src="https://images.credly.com/size/340x340/images/d2361d38-7e56-4eaf-9592-53b394e1792e/image.png" width="150" />
 </a>
-<a href="https://www.credly.com/badges/ce033b89-30b0-4642-9fb7-6778b82fccab/public_url">
-    <img src="https://images.credly.com/size/340x340/images/630f25fb-d24d-4ee4-acab-c1fa42940ccf/image.png" width="150" />
-</a>
+
 <a href="https://raw.githubusercontent.com/Explore-AI/Pictures/master/alx-courses/aice/pictures/Completion_badge.gif">
     <img src="https://raw.githubusercontent.com/Explore-AI/Pictures/master/alx-courses/aice/pictures/Completion_badge.gif" width="150" />
 </a>
