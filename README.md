@@ -25,10 +25,9 @@
     <a href="https://www.hackerrank.com/samymohammed92">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
     </a>
-<a href="https://apps.odoo.com/apps/modules/browse?price=Paid&author=Samy">
-        <img src="https://img.shields.io/badge/My%Odoo%Marketplace-8A2BE2" alt="Odoo" />
+     <a href="https://apps.odoo.com/apps/modules/browse?price=Paid&author=Samy">
+        <img src="https://img.shields.io/badge/My%20Odoo%20Marketplace-8A2BE2?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
     </a>
-
 ### Languages & Tools
 
 <table>
