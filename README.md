@@ -13,6 +13,9 @@
     <a href="https://unit.link/samy-sensei">
     <img src="https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=000&style=plastic" alt="WhatsApp" />
     </a>
+      <a href="https://apps.odoo.com/apps/modules/browse?price=Paid&author=Samy">
+        <img src="https://img.shields.io/badge/My%20Odoo%20Marketplace-8A2BE2?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+    </a>
 </div>
         <br>
 <div align="center">
@@ -25,9 +28,7 @@
     <a href="https://www.hackerrank.com/samymohammed92">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
     </a>
-     <a href="https://apps.odoo.com/apps/modules/browse?price=Paid&author=Samy">
-        <img src="https://img.shields.io/badge/My%20Odoo%20Marketplace-8A2BE2?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-    </a>
+     
   </div>
 
 ### Languages & Tools
