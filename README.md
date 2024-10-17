@@ -28,6 +28,8 @@
      <a href="https://apps.odoo.com/apps/modules/browse?price=Paid&author=Samy">
         <img src="https://img.shields.io/badge/My%20Odoo%20Marketplace-8A2BE2?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
     </a>
+  </div>
+
 ### Languages & Tools
 
 <table>
