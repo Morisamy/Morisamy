@@ -12,7 +12,7 @@
     <div align="center">
     <a href="https://unit.link/samy-sensei">
     <img src="https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=000&style=plastic" alt="WhatsApp" />
-    </a>
+    </a><br>
       <a href="https://apps.odoo.com/apps/modules/browse?price=Paid&author=Samy">
         <img src="https://img.shields.io/badge/My%20Odoo%20Marketplace-8A2BE2?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
     </a>
