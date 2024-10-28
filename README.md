@@ -10,7 +10,7 @@
 <p align="center">📫 How to reach me:</p>
 </div>
     <div align="center">
-    <a href="https://unit.link/samy-sensei">
+    <a href="https://linktr.ee/Prof.M.Samy">
     <img src="https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=000&style=plastic" alt="WhatsApp" />
     </a><br>
       <a href="https://apps.odoo.com/apps/modules/browse?price=Paid&author=Samy">
