@@ -103,7 +103,7 @@
 
 ![Samy](https://img.shields.io/badge/Samy-First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.-blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morisamy&exclude_repo=web_AI&hide=TypeScript)](https://github.com/Morisamy/Morisamy/blob/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morisamy&exclude_repo=web_AI&hide=TypeScript,HTML&langs_count=9)](https://github.com/Morisamy/Morisamy/blob/main/README.md)
 
 # My Badges
 
