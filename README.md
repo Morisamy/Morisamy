@@ -186,7 +186,7 @@ Reach out via [https://linktr.ee/Prof.M.Samy](https://linktr.ee/Prof.M.Samy)
 </a>
 </div>
 <a href="https://www.credly.com/badges/ca4feb7e-5d7f-4576-90fa-7db0d3b77f7f/public_url">
-    <img src="https://images.credly.com/size/340x340/images/f3344942-8667-469f-918c-39582c5077ed/image.png" width="150" />
+    <img src="[https://images.credly.com/size/340x340/images/f3344942-8667-469f-918c-39582c5077ed/image.png](https://images.credly.com/size/680x680/images/caf78f37-b800-45b8-9822-7b5d35bbadd6/blob)" width="150" />
 </a>
 <a href="https://www.credly.com/badges/b67177b9-52b6-4ebd-9f1e-7dd009aeff8e/public_url">
     <img src="https://images.credly.com/size/340x340/images/d2361d38-7e56-4eaf-9132-665c9d489d39/Professional_Certificate_-_Data_Analysis_and_Visualization_with_Excel_and_R.png" width="150" />
