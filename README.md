@@ -18,7 +18,6 @@
 ### 🔒 Occupational Safety & Health  
 **Comprehensive Workplace Safety Solution**  
 [View on Odoo Apps ➜](https://apps.odoo.com/apps/modules/18.0/occupational_safety_health_HSE)  
-📺 [Watch Demo Video](https://youtu.be/your-video-link)
 
 Features:
 - Daily Safety Inspections, Real-time Monitoring  
