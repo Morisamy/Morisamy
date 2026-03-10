@@ -15,14 +15,10 @@
 
 
 ## 📬 Contact  
-Reach out via [https://linktr.ee/Prof.M.Samy](https://linktr.ee/Prof.M.Samy)  
-
 
 <p align="center">📫 How to reach me:</p>
 <div align="center">
-    <a href="https://linktr.ee/Prof.M.Samy">
-        <img src="https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=000&style=plastic" alt="Linktree" />
-    </a><br>
+   <br>
     
 </div>
 <br>
