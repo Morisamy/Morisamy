@@ -13,63 +13,6 @@
 </div>
 
 
-## 🧩 Top Modules by Prof. M. Samy
-
-### 🔒 Occupational Safety & Health  
-**Comprehensive Workplace Safety Solution**  
-[View on Odoo Apps ➜](https://apps.odoo.com/apps/modules/18.0/occupational_safety_health_HSE)  
-
-Features:
-- Daily Safety Inspections, Real-time Monitoring  
-- Incident Management & OSHA Compliance  
-- Work Permits, PPE, Risk Assessments  
-- Training Management & Analytics Dashboard  
-
----
-
-### 📁 Engineering Document Control System  
-**Advanced document management for engineering and technical teams**  
-[View on Odoo Apps ➜](https://apps.odoo.com/apps/modules/17.0/edcs)
-
-Features:
-- Incoming/Outgoing Documents with Auto-Numbering  
-- Color-Coded Category System & Kanban View  
-- Workflow & Retention Policies  
-- Role-Based Access and Full Audit Trail  
-
----
-
-### 📸 Employee Image Attendance  
-**Face-Based Check-in for Odoo Attendance**  
-[View on Odoo Apps ➜](https://apps.odoo.com/apps/modules/17.0/face_image_attendance_login)
-
-Features:
-- Captures Image During Check-In  
-- Stores Photos with Attendance Logs  
-- JS-Based Camera Integration  
-- Full Compatibility with `hr_attendance`  
-
----
-
-### 🥋 Dojo Management  
-**Martial Arts School Administration for Odoo**  
-[View on Odoo Apps ➜](https://apps.odoo.com/apps/modules/17.0/dojo_management)
-
-Features:
-- Student Levels, Sessions & Attendance Wizard  
-- Payment Tracking & Invoicing  
-- Dashboard with PDF Reports  
-- Martial-Arts Specific Customization  
-
----
-
-## 🛠 Services Offered  
-- Custom Module Development  
-- Odoo Migration & Upgrade  
-- Deployment & Optimization  
-- Technical Support & Training  
-
----
 
 ## 📬 Contact  
 Reach out via [https://linktr.ee/Prof.M.Samy](https://linktr.ee/Prof.M.Samy)  
@@ -80,9 +23,7 @@ Reach out via [https://linktr.ee/Prof.M.Samy](https://linktr.ee/Prof.M.Samy)
     <a href="https://linktr.ee/Prof.M.Samy">
         <img src="https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=000&style=plastic" alt="Linktree" />
     </a><br>
-    <a href="https://apps.odoo.com/apps/modules/browse?author=Samy_Sensei">
-        <img src="https://img.shields.io/badge/My%20Odoo%20Marketplace-8A2BE2?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-    </a>
+    
 </div>
 <br>
 <div align="center">
