@@ -5,14 +5,9 @@
 <div align="center">
     👋 👋 👋
     <h2>Hi there, My name is Samy 🔫 ... Mohammed Samy 🔫</h2>
-    <p><b>Senior Odoo Developer | Founder of Cyber-Verse Solutions | CIO at EPNU</b></p>
+    <p><b>Senior Odoo Developer | Founder | CIO</b></p>
 </div>
 
-<div align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=morisamy&theme=matrix&rank=-C,,">
-    <img src="https://github-profile-trophy.vercel.app/?username=morisamy&theme=matrix&rank=-C,,">
-  </a>
-</div>
 
 <br>
 
@@ -127,8 +122,6 @@
 </table>
 
 ![Samy](https://img.shields.io/badge/Samy-First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.-blue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morisamy&exclude_repo=web_AI&hide=Scheme,TypeScript,HTML&langs_count=9)](https://github.com/Morisamy/Morisamy/blob/main/README.md)
 
 ## 🎖️ My Badges
 
