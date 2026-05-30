@@ -1,9 +1,11 @@
 <div align="center">
   <img src="https://github.com/Morisamy/Morisamy/assets/43931403/689bf81d-6371-4bcc-b316-1e9b2eb3695d">
 </div>
+
 <div align="center">
     👋 👋 👋
-    <p align="center">Hi there, My name is Samy 🔫 ... Mohammed Samy 🔫</p>
+    <h2>Hi there, My name is Samy 🔫 ... Mohammed Samy 🔫</h2>
+    <p><b>Senior Odoo Developer | Founder of Cyber-Verse Solutions | CIO at EPNU</b></p>
 </div>
 
 <div align="center">
@@ -12,16 +14,33 @@
   </a>
 </div>
 
+<br>
 
+## 🏆 Odoo Expertise
+
+<div align="center">
+  <table border="1" style="border-collapse: collapse; border-color: #714B67; border-radius: 10px;">
+    <tr>
+      <td align="center" width="150" style="padding: 20px;">
+        <a href="https://www.odoo.com/profile" target="_blank">
+          <img src="https://www.odoo.com/web/image/gamification.karma.rank/4/image_128" alt="Odoo Hero Rank" width="100">
+        </a>
+      </td>
+      <td width="350" style="padding: 20px;">
+        <h2 style="margin: 0; color: #333333;">Mohammed Samy</h2>
+        <p style="margin: 5px 0 0 0; color: #714B67; font-size: 16px;"><b>Senior Odoo Developer</b></p>
+        <p style="margin: 5px 0 0 0; font-size: 14px; color: #555555;">Official Odoo Rank: <b>⭐ Hero (2,500+ XP)</b></p>
+        <p style="margin: 5px 0 0 0; font-size: 13px; color: #777777;">Versions 14 through 19</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
 ## 📬 Contact  
 
 <p align="center">📫 How to reach me:</p>
-<div align="center">
-   <br>
-    
-</div>
-<br>
 <div align="center">
     <a href="mailto:samymohammed92@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -33,6 +52,8 @@
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
     </a>
 </div>
+
+<br>
 
 ### Languages & Tools
 
@@ -83,7 +104,7 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=fff&style=flat" alt="Odoo" />
+            <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
             <br>Odoo
         </td>
         <td align="center">
@@ -109,22 +130,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morisamy&exclude_repo=web_AI&hide=Scheme,TypeScript,HTML&langs_count=9)](https://github.com/Morisamy/Morisamy/blob/main/README.md)
 
-# My Badges
+## 🎖️ My Badges
 
 <div align="center">
-  <img src="https://github.com/Morisamy/Morisamy/assets/43931403/5eea80e6-c941-4596-b72e-6e6fa5edab13" alt="image" width="300" />
+  <img src="https://github.com/Morisamy/Morisamy/assets/43931403/5eea80e6-c941-4596-b72e-6e6fa5edab13" alt="Hack the Box Badge" width="300" />
 </div>
+<br>
 <div align="center">
-<a href="https://www.credly.com/badges/2e084b0c-4c13-443b-9689-20f296503b2d">
-    <img src="https://images.credly.com/size/340x340/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png" width="150" />
-</a>
-<a href="https://www.credly.com/badges/f322b0e5-ddba-4d14-8676-9dece08e922b">
-    <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="150" />
-</a>
+  <a href="https://www.credly.com/badges/2e084b0c-4c13-443b-9689-20f296503b2d">
+      <img src="https://images.credly.com/size/340x340/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png" width="150" />
+  </a>
+  <a href="https://www.credly.com/badges/f322b0e5-ddba-4d14-8676-9dece08e922b">
+      <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="150" />
+  </a>
+  <img src="https://images.credly.com/images/708ec8c4-b6e3-4425-938a-620e3982c02e/blob" width="150" />
+  <img src="https://images.credly.com/size/680x680/images/caf78f37-b800-45b8-9822-7b5d35bbadd6/blob" width="150" />
 </div>
-<a href="https://images.credly.com/images/708ec8c4-b6e3-4425-938a-620e3982c02e/blob">
-    <img src="https://images.credly.com/images/708ec8c4-b6e3-4425-938a-620e3982c02e/blob" width="150" />
-</a>
-<a href="https://images.credly.com/size/680x680/images/caf78f37-b800-45b8-9822-7b5d35bbadd6/blob">
-    <img src="https://images.credly.com/size/680x680/images/caf78f37-b800-45b8-9822-7b5d35bbadd6/blob" width="150" />
-</a>
