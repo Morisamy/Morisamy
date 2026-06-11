@@ -17,13 +17,13 @@
     <tr>
       <td align="center" width="150" style="padding: 20px;">
         <a href="https://www.odoo.com/profile" target="_blank">
-          <img src="https://www.odoo.com/web/image/gamification.karma.rank/5/image_128" alt="Odoo Superhero Rank" width="100">
+          <img src="https://www.odoo.com/web/image/gamification.karma.rank/5/image_128" alt="Odoo Living Legend Rank" width="100">
         </a>
       </td>
       <td width="350" style="padding: 20px;">
         <h2 style="margin: 0; color: #333333;">Mohammed Samy</h2>
         <p style="margin: 5px 0 0 0; color: #714B67; font-size: 16px;"><b>Senior Odoo Developer</b></p>
-        <p style="margin: 5px 0 0 0; font-size: 14px; color: #555555;">Official Odoo Rank: <b>🦸‍♂️ Superhero (10,000+ XP)</b></p>
+        <p style="margin: 5px 0 0 0; font-size: 14px; color: #555555;">Official Odoo Rank: <b>🦸‍♂️ Living Legend (10,000+ XP)</b></p>
         <p style="margin: 5px 0 0 0; font-size: 13px; color: #777777;">Versions 14 through 19</p>
       </td>
     </tr>
